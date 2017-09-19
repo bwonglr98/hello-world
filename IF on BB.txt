@@ -1,0 +1,5 @@
+http://dmit.bulletplus.com/IS3102_Project-war/A1/workspace.jsp
+http://dmit.bulletplus.com/IS3102_Project-war/A1/staffLogin.jsp
+
+http://dmit.bulletplus.com/IS3102_Project-war/B/SG/furnitureCategory.jsp?cat=Tables+%26+Desks
+http://dmit.bulletplus.com/IS3102_Project-war/B/SG/furnitureCategory.jsp?cat=Sofas+%26+Chair
